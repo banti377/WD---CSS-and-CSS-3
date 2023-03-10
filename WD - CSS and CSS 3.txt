@@ -1,0 +1,151 @@
+Que 1 : What are the benefits of using CSS?
+Ans 1 :
+
+There are a number of benefits of CSS, including:
+1) Faster Page Speed. More code means slower page speed.
+2) Better User Experience. CSS not only makes web pages easy on the eye, it also allows for user-friendly formatting.
+3) Quicker Development Time.
+4) Easy Formatting Changes.
+5) Compatibility Across Devices.
+
+
+Que 2 : What are the disadvantages of CSS?
+Ans 2 :
+Confusion due to many CSS levels.
+Cross-Browser Issues.
+Security Issues.
+Extra Work for Developers.
+
+Que 3 : What is the difference between CSS2 and CSS3?
+Ans 3 :
+				CSS2
+
+1.Css splits up different sections of the code into moudules.
+2.There are new ways you can write CSS rules with a bunch of CSS selectors.
+3.There is no backward compatibility with CSS2.
+4.With CSS2 onle web safe fonts can be used.
+5.With CSS2 the concept of simple selectors were present.
+6.Using CSS2, for rounded borders, coding the css styles were complex.
+7.CSS 2, splitting text into multiple columns required complex coding because the standard was not equipped enough to break the text into columns so that it would fit into a box.
+8.CSS 2 Doesn't support the Border-Box property.
+
+				CSS3
+1.Both CSS and HTML were put into a single file, there was no concept of modules before.
+2.There wew no new ways of writing the CSS rules.
+3.There is bacjward compatibility maintained with CSS 3.
+4.With CSS# special fonts can be used such as those in Google Fonts and TypeCast.
+5.With CSS3 the selectors were called as a sequence of simple selectors.com.
+6.With CSS3, there is provision for automatically assigning rounded borders to objects21.
+7.CSS3 has the capability to split text into various columns so that each text block appears as a lay out of the newspaper.
+8.CSS3 supports the Border-Box property.
+
+
+Que 4 : Name a few CSS style components
+Ans 4 :
+1)Selecter:HTML element name, id name, class name.
+2)Property:It's like an attribute such as background color,font-size,position,text-align,color,border etc.
+3)Values:which defines property or values allocate for properties.
+
+
+Que 5 : What do you understand by CSS opacity?
+Ans 5 :
+The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.
+
+
+Que 6 : How can the background color of an element be changed?
+Ans 6 :
+To add background color in HTML, use the CSS background-color property. Set it to the color name or code you want and place it inside a style attribute. Then add this style attribute to an HTML element, like a table, heading, div, or span tag.
+
+
+Que 7 : How can image repetition of the backup be controlled?
+Ans 7 :
+To control the repetition of an image in the background, use the background-repeat property. You can use no-repeat value for the background-repeat property if you do not want to repeat an image, in this case, the image will display only once.
+
+
+Que 8 : What is the use of the background-position property?
+Ans 8 :
+The background-position property sets the starting position of a background image. Tip: By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+
+
+Que 9 : Which property controls the image scroll in the background?
+Ans 9 :
+The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed.
+
+
+Que 10 : Why should background and color be used as separate properties?
+Ans 10 :
+There are two reasons behind this: It enhances the legibility of style sheets. The background property is a complex property in CSS, and if it is combined with color, the complexity will further increase.
+
+
+Que 11 : How to center block elements using CSS1?
+Ans 11 :
+So for centering the element you must set left-margin to auto and right-margin to auto.
+
+
+Que 12 : How to maintain the CSS specifications?
+Ans 12 :
+The Specification defines how CSS properties should be implemented by browser vendors along with detailed algorithms, code samples and tabular information. The Specification also include: The syntax and data types of the language. Detailed explanation on CSS Selectors.
+
+
+Que 13 : What are the ways to integrate CSS as a web page?
+Ans 13 :
+CSS can be added to HTML documents in 3 ways:
+1. Inline - by using the style attribute inside HTML elements.
+2. Internal - by using a <style> element in the <head> section.
+3. External - by using a <link> element to link to an external CSS file.
+
+
+Que 14 : What is embedded style sheets?
+Ans 14 :
+Embedded style sheets allow you to define styles for the whole HTML document in one place. Embedded style sheets refer to when you embed style sheet information into an HTML document using the <style> element. You do this by embedding the style sheet information within <style></style> tags in the head of your document.
+
+
+Que 15 : What are the external style sheets?
+Ans 15 :
+An external style sheet is a separate CSS file that can be accessed by creating a link within the head section of the webpage. Multiple webpages can use the same link to access the stylesheet. The link to an external style sheet is placed within the head section of the page.
+
+
+Que 16 : What are the advantages and disadvantages of using external style sheets?
+Ans 16 :
+External style sheets have the following advantages :
+one change to the style sheet will change all linked pages.
+you can create classes of styles that can then be used on many different HTML elements.
+consistent look and feel across multiple web pages.
+
+Disadvantages of Style Sheets :
+Browser dependency - Style sheets format things slightly differently on different browsers. Unfortunately, browsers have different support for HTML and style sheets.
+Old Browsers - Some very old browsers (such Netscape Navigator 2) do not support style sheets.
+
+
+Que 17 : What is the meaning of the CSS selector?
+Ans 17 :
+A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them.
+
+
+Que 18 : What are the media types allowed by CSS?
+Ans 18 :
+all
+Suitable for all devices.
+braille
+Intended for braille tactile feedback devices.
+embossed
+Intended for paged braille printers.
+handheld
+Intended for handheld devices (typically small screen, limited bandwidth).
+print
+Intended for paged material and for documents viewed on screen in print preview mode. Please consult the section on paged media for information about formatting issues that are specific to paged media.
+projection
+Intended for projected presentations, for example projectors. Please consult the section on paged media for information about formatting issues that are specific to paged media.
+screen
+Intended primarily for color computer screens.
+speech
+Intended for speech synthesizers. Note: CSS2 had a similar media type called 'aural' for this purpose. See the appendix on aural style sheets for details.
+tty
+Intended for media using a fixed-pitch character grid (such as teletypes, terminals, or portable devices with limited display capabilities). Authors should not use pixel units with the "tty" media type.
+tv
+Intended for television-type devices (low resolution, color, limited-scrollability screens, sound available).
+
+
+Que 19 : What is the rule set?
+Ans 19 :
+A collection of rules or signatures that network traffic or system activity is compared against to determine an action to take—such as forwarding or rejecting a packet, creating an alert, or allowing a system event.
